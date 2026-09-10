@@ -1,116 +1,77 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nguyen%20Van%20A&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Fullstack%20Developer%20%7C%20Da%20Nang,%20Vietnam&descAlignY=54&descSize=16" width="100%" />
-</div>
+<h1 align="center">Nguyễn Phan Hữu An</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Xin+ch%C3%A0o%2C+m%C3%ACnh+l%C3%A0+Nguyen+Van+A+%F0%9F%91%8B;Fullstack+Developer;Y%C3%AAu+code+s%E1%BA%A1ch+v%C3%A0+c%C3%A0+ph%C3%AA+%E2%98%95" alt="Typing SVG" />
-</div>
+<p align="center">
+  AI Engineer · Đà Nẵng, Việt Nam
+</p>
 
-<div align="center">
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://facebook.com/your-username"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=6f42c1&label=PROFILE+VIEWS" />
-</div>
+<p align="center">
+  Xây dựng hệ thống machine learning từ notebook đến production.
+</p>
 
-<br>
-
-## 🧑‍💻 Về mình
-
-```typescript
-const me: Developer = {
-  name: "Nguyen Van A",
-  location: "Da Nang, Vietnam 🇻🇳",
-  role: "Fullstack Developer",
-  currentlyLearning: ["Rust", "System Design", "Kubernetes"],
-  workingOn: "Một side project thú vị 🤫",
-  funFact: "Debug 4 tiếng để sửa 1 dòng thiếu dấu chấm phẩy",
-};
-```
-
-- 🔭 Hiện đang làm việc tại **Công ty ABC**
-- 🌱 Đang học thêm về **kiến trúc hệ thống & DevOps**
-- 👯 Sẵn sàng hợp tác các dự án **open source**
-- 💬 Hỏi mình về **React, Node.js, TypeScript**
-- ⚡ Sở thích: cà phê, bóng đá, và... đọc docs
-
-<br>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=ts,js,python,java,go,cpp&theme=dark" />
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,vite&theme=dark" />
-
-**Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis&theme=dark" />
-
-**DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,git,figma&theme=dark" />
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=6f42c1&text_color=c9d1d9&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&hide_border=true&background=0d1117&stroke=0d1117&ring=58A6FF&fire=6f42c1&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58A6FF&line=6f42c1&point=c9d1d9&area=true" width="98%" />
-</div>
-
-<br>
-
-## 🏆 Thành tích
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-</div>
-
-<br>
-
-## 🚀 Dự án nổi bật
-
-<div align="center">
-  <a href="https://github.com/your-username/project-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-one&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/your-username/project-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project-two&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
-  </a>
-</div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/snake.svg" alt="Snake animation" />
-</div>
-
-<br>
+<p align="center">
+  <a href="https://linkedin.com/in/annguyenphanhuu"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://huggingface.co/annguyenphanhuu"><img src="https://img.shields.io/badge/Hugging%20Face-161B22?style=flat-square&logo=huggingface&logoColor=FFD21E" /></a>
+  <a href="https://your-site.com"><img src="https://img.shields.io/badge/Website-161B22?style=flat-square&logo=safari&logoColor=white" /></a>
+</p>
 
 ---
 
-<div align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-</div>
+### About
+
+Mình tập trung vào **LLM, RAG và MLOps** — đưa mô hình ra khỏi notebook và chạy ổn định trong production.
+
+- Đang làm việc với retrieval-augmented generation và agent systems
+- Quan tâm tới inference optimization: quantization, batching, serving
+- Mở với các dự án open-source về NLP và tooling cho ML
+
+```python
+class AIEngineer:
+    stack   = ["PyTorch", "Transformers", "vLLM", "FastAPI"]
+    focus   = "LLM systems that survive real traffic"
+    reading = "attention is (still) all you need"
+```
+
+---
+
+### Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/PyTorch-161B22?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Transformers-161B22?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+  <img src="https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=1C3C3C" />
+  <img src="https://img.shields.io/badge/scikit--learn-161B22?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+  <img src="https://img.shields.io/badge/ONNX-161B22?style=flat-square&logo=onnx&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=009688" />
+  <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Kubernetes-161B22?style=flat-square&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/AWS-161B22?style=flat-square&logo=amazonwebservices&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/Redis-161B22?style=flat-square&logo=redis&logoColor=DC382D" />
+</p>
+
+---
+
+### Stats
+
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=annguyenphanhuu&show_icons=true&count_private=true&hide_border=true&hide_title=true&bg_color=00000000&text_color=8B949E&icon_color=8B949E&hide=issues" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annguyenphanhuu&layout=compact&langs_count=6&hide_border=true&hide_title=true&bg_color=00000000&text_color=8B949E" />
+</p>
+
+---
+
+### Selected work
+
+<p>
+  <a href="https://github.com/annguyenphanhuu/project-one">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=annguyenphanhuu&repo=project-one&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=8B949E&icon_color=8B949E" />
+  </a>
+  <a href="https://github.com/annguyenphanhuu/project-two">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=annguyenphanhuu&repo=project-two&hide_border=true&bg_color=00000000&title_color=8B949E&text_color=8B949E&icon_color=8B949E" />
+  </a>
+</p>
