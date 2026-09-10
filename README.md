@@ -1,16 +1,33 @@
-## Hi there 👋
+name: Generate Snake Animation
 
-<!--
-**annguyenphanhuu/annguyenphanhuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+on:
+  schedule:
+    - cron: "0 0 * * *"   # chạy mỗi ngày lúc 00:00 UTC
+  workflow_dispatch:       # cho phép bấm chạy tay
+  push:
+    branches:
+      - main
 
-Here are some ideas to get you started:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    steps:
+      - name: Generate snake.svg
+        uses: Platane/snk@v3
+        id: snake-gif
+        with:
+          github_user_name: your-username
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
